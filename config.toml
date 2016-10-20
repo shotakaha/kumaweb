@@ -38,7 +38,6 @@ twitter = ""
 github  = ""
 email   = ""
 
-
 [[menu.main]]
 name   = "Shota × Kuma"
 url    = "/"
